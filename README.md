@@ -19,8 +19,6 @@ Para visualizar minhas habilidades com SQL, [clique aqui](https://github.com/jes
 * Utilizar o método `.merge()` da biblioteca Pandas para fazer um **JOIN** entre DataFrames.
  
 > **NOTA:** Os dados utilizados nesta consulta foram retirados de um conjunto de dados público disponibilizado pela Base dos Dados.
-
-
 ---
 
 **2) O arquivo **`sql_lag_pandas_shift.ipynb`** apresenta o uso das seguintes ferramentas:**
